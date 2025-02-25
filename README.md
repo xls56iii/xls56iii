@@ -4,7 +4,7 @@
 
 ## Biography
 
-&emsp;  Welcome to my blog, I'm Mark Xu, graduated from XJTU in 2021, majoring in Software Engineering, and now I am a SDE working in SAP SuccessFactors. Mainly engaged in Java development, love football and cycling.
+&emsp;  Welcome to my blog, I'm Mark Xu, graduated from XJTU in 2021, majoring in Software Engineering, and now I am a SDE working in SAP SuccessFactors. Mainly engaged in Java development, Kubernetes.
 
 ## Education
 
