@@ -16,9 +16,8 @@
 - Primary school, &nbsp; Huaying Bilingualism School of Shijiazhuang, &nbsp; Sept. 2006 - June. 2008
 
 ## Experience
-
-- SDE, &ensp; Platform Service (e.g. Cache, Session), &ensp; SAP SuccessFactors, &ensp; Apr. 2022 - Now
-
+- Senior SDE, &ensp; Platform Service (e.g. Feature Toggle, K8S, DevOps), &ensp; SAP SuccessFactors, &ensp; Apr. 2025 - Now
+- SDE, &ensp; Platform Service (e.g. Cache, Session), &ensp; SAP SuccessFactors, &ensp; Apr. 2022 - Mar. 2025
 - SDE, &ensp;  Java Web & React Native App, &ensp; CMB Credit Card Center, &ensp; July. 2021 - Apr. 2022
 - Internship, &ensp; Defect Detection, &ensp; Huawei Noah's Ark Lab, &ensp; Dec. 2019 - June. 2020
 
